@@ -6,5 +6,9 @@ package com.xitie;
  * @date 2022/10/25 15:52
  */
 public class aaa {
+
     private int age;
+
+    private String name;
+
 }
